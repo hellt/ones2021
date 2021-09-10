@@ -2,7 +2,7 @@ This repo augments the [Containerlab](https://containerlab.srlinux.dev) demo giv
 
 It contains the files needed to deploy a BGP Route Reflection lab built with containerlab.
 
-![pic](https://gitlab.com/rdodin/pics/-/wikis/uploads/ebea9b98c8c3ecefd84a87d4c54d4174/image.png)
+![pic](https://gitlab.com/rdodin/pics/-/wikis/uploads/7fb73b48cfca59e0c07bbfe79180617c/image.png)
 
 ## Deploying a lab
 Clone this repository, change into `ones2021` directory and execute
